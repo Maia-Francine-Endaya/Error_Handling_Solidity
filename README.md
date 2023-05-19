@@ -19,6 +19,7 @@
 2. Change the solidity version in the first line to match the current version of Solidity
 
 > pragma solidity 0.8.18; //<- change this
+> 
 > pragma solidity ^0.8.0; //<- or this if unsure about the Solidity version
 
 <h3>Help</h3>
